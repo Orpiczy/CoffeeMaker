@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>db.h</file>
+        <file>db.cpp</file>
+        <file>simplestorage.h</file>
+        <file>simplestorage.cpp</file>
+    </qresource>
+</RCC>
